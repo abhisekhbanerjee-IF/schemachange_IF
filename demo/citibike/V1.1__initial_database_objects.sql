@@ -1,5 +1,5 @@
 -- Create the database if it doesn't exist
---- Custom Abhi
+--- Custom Abhi now
 USE DATABASE DEV_DB.PUBLIC
 
 
